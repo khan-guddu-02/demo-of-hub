@@ -1,0 +1,13 @@
+.calculator {
+  border: 1px solid rgba(0, 0, 0, 0.424);
+  width: 150px;
+  border-radius: 5px;
+  margin: 1rem;
+  position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: green;
+
+}
+
